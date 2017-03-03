@@ -1,0 +1,11 @@
+Package: DKAT
+Type: Package
+Title: Dual Kernel-based Association Test
+Version: 1.0
+Depends: R(>= 3.1.0)
+Imports: glasso,PearsonDS
+Author: Xiang Zhan and Michael C. Wu
+Maintainer: Xiang Zhan <xiangzhan9@gmail.com>
+Description: This package tests the overall association between high-dimensional structured traits and multiple genetic variants (both common and rare).
+License: GPL (>=2)
+Built: R 3.2.4; ; 2017-03-03 19:20:41 UTC; windows

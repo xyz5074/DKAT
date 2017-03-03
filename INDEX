@@ -1,0 +1,3 @@
+DKAT                    Dual Kernel-based Association Test
+pheno.kernel            Phenotype Kernel
+wlin.kernel             Weighted Linear Kernel
